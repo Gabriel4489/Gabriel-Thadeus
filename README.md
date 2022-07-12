@@ -1,6 +1,6 @@
--Hi, I’m Gabriel Thadeus
--I’m interested in Programming, Networking and Cybersecurity.
--I’m currently learning Networking.
--How to reach me<br /> 
----website: thadeus.epizy.com
----whatsapp: +255683865733
+-Hi, I’m Gabriel Thadeus<br />
+-I’m interested in Programming, Networking and Cybersecurity.<br />
+-I’m currently learning Networking.<br />
+-How to reach me<br /> <br />
+---website: thadeus.epizy.com<br />
+---whatsapp: +255683865733<br />
